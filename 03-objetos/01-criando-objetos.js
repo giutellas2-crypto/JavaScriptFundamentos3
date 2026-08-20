@@ -1,0 +1,9 @@
+const aluno = {
+    nome: "rafael",
+    idade: 16,
+    nota: 7,
+};
+
+console.log(aluno);
+
+//{} = JSON => JavaScript Object Notation
